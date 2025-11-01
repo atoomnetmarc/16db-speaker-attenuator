@@ -4,9 +4,9 @@ A simple resistive divider network to dampen the output of an audio amplifier 16
 
 ![](DS2_2018101203259.png)
 
-See that spike at 6KHz? It was always there no matter what volume my Logitech Z-5500 Digital was set to. Very annoying.
+See that spike at 6kHz? It was always there no matter what volume my Logitech Z-5500 Digital was set to. Very annoying.
 
-The solution was this attenuator circuit that was fitted to each of the 5 channels of the amplifier. That peak at 6KHz is now 16db less annoying. Problem solved.
+The solution was this attenuator circuit that was fitted to each of the 5 channels of the amplifier. That peak at 6kHz is now 16db less annoying. Problem solved.
 
 ## Front
 
